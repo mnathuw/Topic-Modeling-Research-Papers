@@ -33,7 +33,7 @@ Welcome to the **Topic Modeling for Research Papers** project! This project was 
 ## 🚀 Installation & Setup
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/yourusername/Topic-Modeling-Research-Papers.git
+   git clone https://github.com/mnathuw/Topic-Modeling-Research-Papers.git
    cd Topic-Modeling-Research-Papers
    ```
 
