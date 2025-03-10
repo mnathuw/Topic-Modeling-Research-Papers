@@ -66,7 +66,12 @@ Welcome to the **Topic Modeling for Research Papers** project! This project was 
 - Extend analysis to **multi-lingual research papers**.
 
 ## 🤝 Collaborators
-@Anahita0712 @Mat3jP @mnathuw @Member4 @Member5 @Member6
+[@Mat3jP](https://github.com/Mat3jP) 
+[@Anahita0712](https://github.com/Anahita0712) 
+[@mnathuw](https://github.com/mnathuw) 
+@Member4 
+@Member5 
+@Member6
 
 ## 📜 License
 This project is open-source under the **MIT License**.
