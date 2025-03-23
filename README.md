@@ -70,7 +70,8 @@ Welcome to the **Topic Modeling for Research Papers** project! This project was 
 [@Anahita0712](https://github.com/Anahita0712) 
 [@mnathuw](https://github.com/mnathuw) 
 [@ImSomniac](https://github.com/ImSomniac) 
-@Member5 
+[@rafaehashmi]
+(https://github.com/rafaehashmi)
 @Member6
 
 ## 📜 License
