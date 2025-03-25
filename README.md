@@ -71,7 +71,7 @@ Welcome to the **Topic Modeling for Research Papers** project! This project was 
 [@mnathuw](https://github.com/mnathuw) 
 [@ImSomniac](https://github.com/ImSomniac) 
 [@rafaehashmi](https://github.com/rafaehashmi)
-@Member6
+[@AliAhmed2004](https://github.com/AliAhmed2004)
 
 ## 📜 License
 This project is open-source under the **MIT License**.
