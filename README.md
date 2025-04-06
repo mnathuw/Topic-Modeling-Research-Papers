@@ -2,9 +2,6 @@
 
 Welcome to the **Topic Modeling for Research Papers** project! This project was developed as part of **CP421 Data Mining course** to analyze and categorize research papers into topics using unsupervised learning models. The goal is to extract meaningful themes from scholarly articles, helping researchers identify trends and key topics in their field.
 
-## 🎥 Demo
-[Click here to watch the video demo](#)
-
 ## 🎯 Features
 - **Text Preprocessing**: Tokenization, stopword removal, stemming/lemmatization.
 - **TF-IDF Representation**: Converts text into numerical vectors for analysis.
